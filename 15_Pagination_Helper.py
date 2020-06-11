@@ -1,4 +1,5 @@
 # TODO: complete this class
+# FIXME: is also a cool way to comment :) RG
 import math
 
 class PaginationHelper:
